@@ -1,1 +1,1 @@
-console.log("hello2 init")
+console.log("Hello2 init")
