@@ -1,2 +1,1 @@
-console.log("Hello!")
-console.log("What's up!")
+console.log("Hello init")
