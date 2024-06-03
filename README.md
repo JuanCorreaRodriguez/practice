@@ -1,2 +1,2 @@
 # Git Practice
-## Repository for create, practice and doc for git
+## Repository for practice git
