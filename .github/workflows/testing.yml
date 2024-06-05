@@ -1,0 +1,15 @@
+name: Echos testing
+on: 
+  push:
+    branches: [ main ]
+
+  # allows yout to runt hsi workflow manually from the actions tab
+  workflow_dispatch:
+
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "Show Message"
+        run: echo "Hello world"
